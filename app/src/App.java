@@ -4,7 +4,7 @@
  * This class demonstrates a simple Java application that displays the Object
  * Oriented Programming System OOPS acronym to the console.
  *
- * @author Ujjwal
+ * @author UjjwalRanjan 
  * @version 1.0
  */
 public class App {
@@ -12,4 +12,5 @@ public class App {
 
         System.out.println("OOPS");
     }
+
 }
