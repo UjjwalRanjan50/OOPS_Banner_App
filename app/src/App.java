@@ -5,7 +5,7 @@
  * and iterating through them with a for-each loop, eliminating hardcoded print
  * statements and improving modularity and reusability.
  *
- * @author Shourya Parashar
+ * @author UjjwalRanjan 
  * @version 4.0
  */
 public class App {
@@ -28,4 +28,5 @@ public class App {
             System.out.println(line);
         }
     }
+
 }
