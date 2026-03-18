@@ -10,7 +10,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class BannerAppUC8 {
+public class UC8 {
 
     // Centralized character pattern storage using HashMap
     private static final Map<Character, String[]> characterPatterns = new HashMap<>();
